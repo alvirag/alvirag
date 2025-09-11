@@ -16,7 +16,6 @@
       <strong>Lung cancer tumor suppressor co-expression analysis (R)</strong>
     </a>
   </li>
-  <li><strong></strong></li>
   <li>
     <a href="https://github.com/alvirag/Data-exploration-and-vizualization" target="_blank">
       <strong>Data exploration and vizualization projects (Python, SQL)</strong>
@@ -40,7 +39,16 @@
     </ul>
   </li>
 
-
+  <li>
+    <strong>Generative machine learning projects</strong>
+    <ul>
+      <li>
+        <a href="https://github.com/alvirag/celebA-CVAE-project" target="_blank">
+          <strong>CelebA CVAE model (Python)</strong>
+        </a>
+      </li>
+    </ul>
+  </li>
 
 <li>
     <strong>valami</strong>
@@ -60,16 +68,7 @@
 
 
   
-  <li>
-    <strong>Generative machine learning projects</strong>
-    <ul>
-      <li>
-        <a href="https://github.com/alvirag/celebA-CVAE-project" target="_blank">
-          <strong>CelebA CVAE model (Python)</strong>
-        </a>
-      </li>
-    </ul>
-  </li>
+
 
   <li><strong>Master's thesis + TDK – cardioprotective miRNA detection</strong></li>
   <li><strong>Linear algebra practice</strong></li>
