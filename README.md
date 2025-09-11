@@ -1,5 +1,3 @@
-<h1>👋</h1>
-
 <h2>🚀 Current projects:</h2>
 <ul>
   <li><strong>Parallelization of existing bioinformatics softwares using HPCs</strong></li>
