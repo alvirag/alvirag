@@ -14,6 +14,13 @@
       <strong>HIV transmission case study - phylogenetic analysis</strong>
     </a>
   </li>
+  <li>
+    <a href="https://github.com/alvirag/Lung-cancer-tumor-supressor-co-expression-project/blob/main/README.md" target="_blank">
+      <strong>Lung cancer tumor supressor co-expression - r-based expression analysis</strong>
+    </a>
+  </li>
+
+
 
     
   <li><strong>Data mining and machine learning projects</strong>
