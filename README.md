@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Virág!</h1>
+<h1>👋</h1>
 
 <h2>🚀 Current projects:</h2>
 <ul>
