@@ -1,27 +1,37 @@
-<h1>Hi, I'm Virág!</h1>
+<h1>👋 Hi, I'm Virág!</h1>
 
-<h2>👨‍💻 Current projects:</h2>
+<h2>🚀 Current projects:</h2>
+<ul>
+  <li><strong>Parallelization of existing bioinformatics software</strong></li>
+</ul>
 
-<h2>👨‍💻 Past projects:</h2>
+<h2>📂 Past projects:</h2>
+<ul>
+  <li><strong>Data cleaning useful codes</strong></li>
+  <li><strong>Supercomputer / HPC omics project</strong></li>
+  <li><strong>Data exploration and visualization projects</strong></li>
+  <li><strong>Data mining and machine learning projects</strong>
+    <ul>
+      <li>Breast cancer dataset</li>
+      <li>CDM dataset</li>
+      <li>Generative machine learning models – CVAE project</li>
+    </ul>
+  </li>
+  <li><strong>Masters thesis + TDK – cardioprotective miRNA detection</strong></li>
+  <li><strong>Linear algebra practice</strong></li>
+</ul>
 
-- <b>Data cleaning useful codes</b>
+<h2>🧩 Codes I worked on and want to remember:</h2>
+<ul>
+  <li><strong>Bioinformatic algorithms</strong></li>
+  <li><strong>Data cleaning useful codes</strong></li>
+</ul>
 
-- <b>HPC/supercomputer codes</b>
-
-- <b>Data mining projects</b>
-
-- <b>Machine learning projects</b>
-
-- <b>Bioinformatic algoritms</b>
-
-- <b>Masters thesis work</b>
-
-- <b>Linear algebra practice</b>
-
-<h2>👨‍💻 Codes I worked on and want to remember:</h2>
-
-<h2> Connect with me:</h2>
-
+<h2>📫 Connect with me:</h2>
+<ul>
+  <li><a href="https://github.com/yourprofile" target="_blank">GitHub</a></li>
+  <li><a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a></li>
+</ul>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
