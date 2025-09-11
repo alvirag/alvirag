@@ -62,6 +62,12 @@
       <strong>Bioinformatic algorithms</strong>
     </a>
   </li>
+  <li>
+    <a href="https://github.com/alvirag/Advanced-biometry" target="_blank">
+      <strong>Advanced biometry assignments</strong>
+    </a>
+  </li>
+
   <li><strong>Data cleaning useful codes</strong></li>
 </ul>
 
