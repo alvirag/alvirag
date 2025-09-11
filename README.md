@@ -19,6 +19,7 @@
       <strong>Lung cancer tumor suppressor co-expression – R-based expression analysis</strong>
     </a>
   </li>
+  
   <li>
     <strong>Data mining and machine learning projects</strong>
     <ul>
@@ -32,7 +33,10 @@
           <strong>CAMELS Multifield Dataset analysis</strong>
         </a>
       </li>
+    </li>
+    <li>
       <strong>Generative machine learning projects</strong>
+      <ul>
         <li>
           <a href="https://github.com/alvirag/celebA-CVAE-project" target="_blank">
             <strong>CelebA CVAE model</strong>
