@@ -32,11 +32,12 @@
           <strong>CAMELS Multifield Dataset analysis</strong>
         </a>
       </li>
-      <li>
-        <a href="https://github.com/alvirag/celebA-CVAE-project" target="_blank">
-          <strong>Generative ML projects - CelebA CVAE model</strong>
-        </a>
-      </li>
+      <strong>Generative machine learning projects</strong>
+        <li>
+          <a href="https://github.com/alvirag/celebA-CVAE-project" target="_blank">
+            <strong>CelebA CVAE model</strong>
+          </a>
+        </li>
   <li><strong>Master's thesis + TDK – cardioprotective miRNA detection</strong></li>
   <li><strong>Linear algebra practice</strong></li>
 </ul>
