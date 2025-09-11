@@ -1,8 +1,8 @@
 <h1>Hi, I'm Virág!</h1>
 
-<h2>👨‍💻 Current projects</h2>
+<h2>👨‍💻 Current projects:</h2>
 
-<h2>👨‍💻 Past project and codes I want to remember:</h2>
+<h2>👨‍💻 Past projects:</h2>
 
 - <b>Data cleaning useful codes</b>
 
@@ -18,6 +18,7 @@
 
 - <b>Linear algebra practice</b>
 
+<h2>👨‍💻 Codes I worked on and want to remember:</h2>
 
 <h2> Connect with me:</h2>
 
