@@ -15,7 +15,7 @@
     </a>
   </li>
   <li>
-    <a href="https://github.com/alvirag/Lung-cancer-tumor-suppressor-co-expression-project" target="_blank">
+    <a href="https://github.com/alvirag/Lung-cancer-tumor-suppressor-co-expression-project/tree/main" target="_blank">
       <strong>Lung cancer tumor suppressor co-expression – R-based expression analysis</strong>
     </a>
   </li>
