@@ -7,6 +7,18 @@
 <ul>
   <li><strong>Supercomputer / HPC omics project</strong></li>
   <li>
+      <strong>Omics data analysis projects</strong>
+      <ul>
+        <li>
+          <a href="https://github.com/alvirag/Omics-analysis-mouse-hepatic-IR/tree/main" target="_blank">
+            <strong>Mouse hepatic ischemia RNA-seq (bash, R)</strong>
+          </a>
+        </li>
+      </ul>
+    </li>
+
+  
+  <li>
     <a href="https://github.com/alvirag/HIV-sequence-alignment-project" target="_blank">
       <strong>HIV transmission case study – phylogenetic analysis (bash) </strong>
     </a>
