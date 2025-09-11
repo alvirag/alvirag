@@ -22,7 +22,11 @@
 
 <h2>🧩 Codes I worked on and want to remember:</h2>
 <ul>
-  <li><strong>Bioinformatic algorithms</strong></li>
+  <li>
+    <a href="https://github.com/alvirag/Bioinformatics-algorithms/tree/main" target="_blank">
+      <strong>Bioinformatic algorithms</strong>
+    </a>
+  </li>
   <li><strong>Data cleaning useful codes</strong></li>
 </ul>
 
