@@ -37,9 +37,6 @@
           <strong>Generative ML projects - CelebA CVAE model</strong>
         </a>
       </li>
-      
-    </ul>
-  </li>
   <li><strong>Master's thesis + TDK – cardioprotective miRNA detection</strong></li>
   <li><strong>Linear algebra practice</strong></li>
 </ul>
