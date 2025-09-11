@@ -2,7 +2,7 @@
 
 <h2>🚀 Current projects:</h2>
 <ul>
-  <li><strong>Parallelization of existing bioinformatics softwares</strong></li>
+  <li><strong>Parallelization of existing bioinformatics software</strong></li>
 </ul>
 
 <h2>📂 Past projects:</h2>
@@ -10,29 +10,30 @@
   <li><strong>Supercomputer / HPC omics project</strong></li>
   <li><strong>Data exploration and visualization projects</strong></li>
   <li>
-    <a href="https://github.com/alvirag/HIV-sequence-alignment-project/tree/main" target="_blank">
-      <strong>HIV transmission case study - phylogenetic analysis</strong>
+    <a href="https://github.com/alvirag/HIV-sequence-alignment-project" target="_blank">
+      <strong>HIV transmission case study – phylogenetic analysis</strong>
     </a>
   </li>
   <li>
-    <a href="https://github.com/alvirag/Lung-cancer-tumor-supressor-co-expression-project/blob/main/README.md" target="_blank">
-      <strong>Lung cancer tumor supressor co-expression - R-based expression analysis</strong>
+    <a href="https://github.com/alvirag/Lung-cancer-tumor-suppressor-co-expression-project" target="_blank">
+      <strong>Lung cancer tumor suppressor co-expression – R-based expression analysis</strong>
     </a>
   </li>
-
-
-
-    
   <li><strong>Data mining and machine learning projects</strong>
     <ul>
-      <li>Breast cancer dataset</li>
+      <li>
+        <a href="https://github.com/alvirag/Breast-cancer-proteom-landscape-project" target="_blank">
+          <strong>Breast cancer landscape analysis</strong>
+        </a>
+      </li>
       <li>CDM dataset</li>
       <li>Generative machine learning models – CVAE project</li>
     </ul>
   </li>
-  <li><strong>Masters thesis + TDK – cardioprotective miRNA detection</strong></li>
+  <li><strong>Master's thesis + TDK – cardioprotective miRNA detection</strong></li>
   <li><strong>Linear algebra practice</strong></li>
 </ul>
+
 
 <h2>🧩 Codes I worked on and want to remember:</h2>
 <ul>
