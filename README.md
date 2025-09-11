@@ -2,7 +2,7 @@
 
 <h2>🚀 Current projects:</h2>
 <ul>
-  <li><strong>Parallelization of existing bioinformatics softwares</strong></li>
+  <li><strong>Parallelization of existing bioinformatics softwares using HPCs</strong></li>
 </ul>
 
 <h2>📂 Past projects:</h2>
