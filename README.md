@@ -9,12 +9,12 @@
   <li><strong>Data exploration and visualization projects</strong></li>
   <li>
     <a href="https://github.com/alvirag/HIV-sequence-alignment-project" target="_blank">
-      <strong>HIV transmission case study – phylogenetic analysis</strong>
+      <strong>HIV transmission case study – phylogenetic analysis (bash) </strong>
     </a>
   </li>
   <li>
     <a href="https://github.com/alvirag/Lung-cancer-tumor-supressor-co-expression-project" target="_blank">
-      <strong>Lung cancer tumor suppressor co-expression – R-based expression analysis</strong>
+      <strong>Lung cancer tumor suppressor co-expression analysis (R)</strong>
     </a>
   </li>
   
@@ -23,12 +23,12 @@
     <ul>
       <li>
         <a href="https://github.com/alvirag/Breast-cancer-proteom-landscape-project" target="_blank">
-          <strong>Breast cancer landscape analysis</strong>
+          <strong>Breast cancer landscape analysis (Python)</strong>
         </a>
       </li>
       <li>
         <a href="https://github.com/alvirag/CDM-project" target="_blank">
-          <strong>CAMELS Multifield Dataset analysis</strong>
+          <strong>CAMELS Multifield Dataset analysis (Python)</strong>
         </a>
       </li>
     </ul>
@@ -39,7 +39,7 @@
     <ul>
       <li>
         <a href="https://github.com/alvirag/celebA-CVAE-project" target="_blank">
-          <strong>CelebA CVAE model</strong>
+          <strong>CelebA CVAE model (Python)</strong>
         </a>
       </li>
     </ul>
