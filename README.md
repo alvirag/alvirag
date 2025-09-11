@@ -59,7 +59,7 @@
 <ul>
   <li>
     <a href="https://github.com/alvirag/Bioinformatics-algorithms/tree/main" target="_blank">
-      <strong>Bioinformatic algorithms</strong>
+      <strong>Bioinformatics algorithms</strong>
     </a>
   </li>
   <li>
