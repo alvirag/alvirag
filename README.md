@@ -45,7 +45,7 @@
 </ul>
 
 
-<h2>📫 How you can reac me?:</h2>
+<h2>📫 How you can reach me?:</h2>
 <ul>
   <li><a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a></li>
 </ul>
