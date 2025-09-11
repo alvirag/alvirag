@@ -2,12 +2,11 @@
 
 <h2>🚀 Current projects:</h2>
 <ul>
-  <li><strong>Parallelization of existing bioinformatics software</strong></li>
+  <li><strong>Parallelization of existing bioinformatics softwares</strong></li>
 </ul>
 
 <h2>📂 Past projects:</h2>
 <ul>
-  <li><strong>Data cleaning useful codes</strong></li>
   <li><strong>Supercomputer / HPC omics project</strong></li>
   <li><strong>Data exploration and visualization projects</strong></li>
   <li><strong>Data mining and machine learning projects</strong>
