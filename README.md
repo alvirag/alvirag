@@ -9,6 +9,13 @@
 <ul>
   <li><strong>Supercomputer / HPC omics project</strong></li>
   <li><strong>Data exploration and visualization projects</strong></li>
+  <li>
+    <a href="https://github.com/alvirag/HIV-sequence-alignment-project/tree/main" target="_blank">
+      <strong>HIV transmission case study - phylogenetic analysis</strong>
+    </a>
+  </li>
+
+    
   <li><strong>Data mining and machine learning projects</strong>
     <ul>
       <li>Breast cancer dataset</li>
@@ -29,6 +36,7 @@
   </li>
   <li><strong>Data cleaning useful codes</strong></li>
 </ul>
+
 
 <h2>📫 How you can reac me?:</h2>
 <ul>
