@@ -19,21 +19,25 @@
       <strong>Lung cancer tumor suppressor co-expression – R-based expression analysis</strong>
     </a>
   </li>
-  <li><strong>Data mining and machine learning projects</strong>
+  <li>
+    <strong>Data mining and machine learning projects</strong>
     <ul>
       <li>
         <a href="https://github.com/alvirag/Breast-cancer-proteom-landscape-project" target="_blank">
           <strong>Breast cancer landscape analysis</strong>
         </a>
       </li>
-      <li>CDM dataset</li>
+      <li>
+        <a href="https://github.com/alvirag/CDM-project" target="_blank">
+          <strong>CAMELS Multifield Dataset analysis</strong>
+        </a>
+      </li>
       <li>Generative machine learning models – CVAE project</li>
     </ul>
   </li>
   <li><strong>Master's thesis + TDK – cardioprotective miRNA detection</strong></li>
   <li><strong>Linear algebra practice</strong></li>
 </ul>
-
 
 <h2>🧩 Codes I worked on and want to remember:</h2>
 <ul>
