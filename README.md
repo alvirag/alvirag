@@ -6,7 +6,6 @@
 <h2>📂 Past projects:</h2>
 <ul>
   <li><strong>Supercomputer / HPC omics project</strong></li>
-  <li><strong>Data exploration and visualization projects</strong></li>
   <li>
     <a href="https://github.com/alvirag/HIV-sequence-alignment-project" target="_blank">
       <strong>HIV transmission case study – phylogenetic analysis (bash) </strong>
@@ -17,6 +16,13 @@
       <strong>Lung cancer tumor suppressor co-expression analysis (R)</strong>
     </a>
   </li>
+  <li><strong></strong></li>
+  <li>
+    <a href="https://github.com/alvirag/Data-exploration-and-vizualization" target="_blank">
+      <strong>Data exploration and vizualization projects (Python, SQL)</strong>
+    </a>
+  </li>
+
   
   <li>
     <strong>Data mining and machine learning projects</strong>
@@ -34,6 +40,26 @@
     </ul>
   </li>
 
+
+
+<li>
+    <strong>valami</strong>
+    <ul>
+      <li>
+        <a href="" target="_blank">
+          <strong></strong>
+        </a>
+      </li>
+      <li>
+        <a href="" target="_blank">
+          <strong></strong>
+        </a>
+      </li>
+    </ul>
+  </li>
+
+
+  
   <li>
     <strong>Generative machine learning projects</strong>
     <ul>
