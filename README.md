@@ -69,7 +69,7 @@
   </li>
 
 <li>
-    <strong>valami</strong>
+    <strong></strong>
     <ul>
       <li>
         <a href="" target="_blank">
