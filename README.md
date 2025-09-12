@@ -14,8 +14,14 @@
             <strong>Mouse hepatic ischemia RNA-seq (bash, R)</strong>
           </a>
         </li>
+        <li>
+          <a href="https://github.com/alvirag/Omics-analysis-dog-samples-RNA-seq" target="_blank">
+            <strong>Dog age related genes RNA-seq (bash, R, HPC)</strong>
+          </a>
+        </li>
       </ul>
     </li>
+
 
   
   <li>
