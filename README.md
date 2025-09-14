@@ -5,7 +5,7 @@
 
 <h2>📂 Past projects:</h2>
 <ul>
-  <li><strong>Supercomputer / HPC omics project</strong></li>
+
   <li>
       <strong>Omics data analysis projects</strong>
       <ul>
