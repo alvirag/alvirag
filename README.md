@@ -75,7 +75,7 @@
 
 
   <li><strong>Master's thesis + TDK – cardioprotective miRNA detection</strong></li>
-  <li><strong>Linear algebra practice</strong></li>
+
 </ul>
 
 
