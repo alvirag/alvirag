@@ -101,7 +101,7 @@
 
 <h2>📫 How you can reach me?:</h2>
 <ul>
-  <li><a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/vir%C3%A1g-antal-aa3b712ab/" target="_blank">LinkedIn</a></li>
 </ul>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
