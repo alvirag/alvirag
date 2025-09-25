@@ -31,7 +31,7 @@
   </li>
   <li>
     <a href="https://github.com/alvirag/Lung-cancer-tumor-supressor-co-expression-project" target="_blank">
-      <strong>Lung cancer tumor suppressor co-expression analysis (R)</strong>
+      <strong>Lung cancer tumor suppressor co-expression analysis with CRISPR (R)</strong>
     </a>
   </li>
   <li>
